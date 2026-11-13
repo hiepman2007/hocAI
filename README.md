@@ -1,2 +1,1 @@
-# timtro
-TÌM TRỌ
+# Day hoc 
